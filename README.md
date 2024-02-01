@@ -1,13 +1,5 @@
 # Installer for PufferPanel on Linux 
 
-<div align="center">
-  <img src="https://nutro.cloud/img/logo-white.png" alt="nutrologo
-    
-    
-    ">
-</div>
-
-
 ## Features
 - one command installations
 - Works  on Linux x86 VPS 
